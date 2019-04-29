@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="ejbModule"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.6.0_45">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.generic.runtimeTarget.sap/sapruntime">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.ejb"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="src" path=".apt_generated">
+		<attributes>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/STRATESYS/Proyectos/librerias/Sap_pi/com.sap.aii.af.cpa.svc.filter.jar"/>
+	<classpathentry kind="lib" path="D:/STRATESYS/Proyectos/librerias/Sap_pi/com.sap.aii.af.ifc.facade.jar"/>
+	<classpathentry kind="lib" path="D:/STRATESYS/Proyectos/librerias/Sap_pi/com.sap.aii.af.ifc.filter.jar"/>
+	<classpathentry kind="lib" path="D:/STRATESYS/Proyectos/librerias/Sap_pi/com.sap.aii.af.lib.facade.jar"/>
+	<classpathentry kind="lib" path="D:/STRATESYS/Proyectos/librerias/Sap_pi/com.sap.aii.af.lib.filter.jar"/>
+	<classpathentry kind="lib" path="D:/STRATESYS/Proyectos/librerias/Sap_pi/com.sap.aii.af.lib.mod.jar"/>
+	<classpathentry kind="lib" path="D:/STRATESYS/Proyectos/librerias/Sap_pi/com.sap.aii.af.svc.facade.jar"/>
+	<classpathentry kind="lib" path="D:/STRATESYS/Proyectos/librerias/Sap_pi/com.sap.aii.af.svc.filter.jar"/>
+	<classpathentry kind="lib" path="D:/STRATESYS/Proyectos/librerias/Sap_pi/com.sap.aii.sec.lib.filter.jar"/>
+	<classpathentry kind="lib" path="D:/STRATESYS/Proyectos/librerias/Sap_log/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="D:/STRATESYS/Proyectos/librerias/Sap_log/sap.com~tc~logging~java~api.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
